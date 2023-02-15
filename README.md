@@ -11,4 +11,9 @@ This repository contains my Data Analytics portfolio projects ranging from SQL, 
 - Visualization and presentation made by PowerBI
 - [View the project here](https://github.com/lem1617/Data-analyst---Portfolio/tree/main/Bussiness%20Case%20-%20Sale%20Performance%20Analyst%20%26%20Action%20Plan%20for%20French%20Fashion%20Retailer)
 
+### Sale & Profit Analysis in SQL and visualization by Tableau
+- Analyze sale data and calculate Return rate in SQL using CTE and Temp Table
+- Built a dashboard in Tableau showing results
+- [View Tableau Dashboard here](https://public.tableau.com/app/profile/phan.dieu.linh/viz/Book1_16759754569880/Dashboard1)
+
 #### Updating ---
